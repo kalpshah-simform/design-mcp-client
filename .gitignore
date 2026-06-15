@@ -1,0 +1,7 @@
+node_modules
+dist
+.claude
+.vscode
+
+*storybook.log
+storybook-static
